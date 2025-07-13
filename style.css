@@ -673,7 +673,7 @@ nav ul li a:hover {
     }
 
     .slider {
-        height: 450px; 
+        height: 100vh; 
     }
 
     .texto-slider h2 {
@@ -721,7 +721,7 @@ nav ul li a:hover {
 
    .footer-content {
         grid-template-columns: 1fr;
-        text-align: center;
+        text-align: left;
     }
 
     .footer-social-icons {

@@ -680,10 +680,6 @@ nav ul li a:hover {
         text-align: center;
     }
 
-    .setas button {
-       display:none
-    }
-
     .sobre-container, .galeria, .depoimentos, .contato {
         padding: 60px 0;
     }

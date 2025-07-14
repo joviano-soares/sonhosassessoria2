@@ -676,19 +676,9 @@ nav ul li a:hover {
         height: 100vh; 
     }
 
-    .texto-slider h2 {
-        display:none;
-    }
-
-     .texto-slider p {
-        display:none;
-    }
-
     h1{
         text-align: center;
     }
-
-   
 
     .setas button {
        display:none
@@ -762,7 +752,7 @@ nav ul li a:hover {
     }    
 
     .slider {
-        height: 350px;
+        height: 100vh;
     }
 
     .texto-slider h2 {
